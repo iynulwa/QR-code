@@ -26,8 +26,8 @@ A single page QR code built with HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/iynulwa/QR-code
+- Live Site URL: https://iynulwa.github.io/QR-code/
 
 ## My process
 
@@ -69,4 +69,3 @@ I'd like to master responsiveness in web page development. I don't think I have 
 ## Acknowledgments
 
 I'd like to thank the author to that stackoverflow answer.
-
